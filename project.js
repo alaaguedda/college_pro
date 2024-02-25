@@ -37,7 +37,7 @@ function loadCards() {
         });
     }
 }
-
+//go
 // ... (Your existing functions)
 
 
